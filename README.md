@@ -1,9 +1,11 @@
-Olá! Developer Front-end | JavaScript | Node.js
+### Olá! Sou o Diego 👋
+**Desenvolvedor Web | JavaScript | Node.js**
 
-Sou um estudante de Tecnologia em Sistemas para Internet focado em...
+Mais do que escrever código, meu foco é **construir soluções**. 
+Graduando em Tecnologia em Sistemas para Internet, combino o desenvolvimento de interfaces interativas com o estudo aprofundado de estruturas de dados e performance no back-end.
 
-...focado em desenvolver aplicações web interativas e de alta performance.
-
+🔭 **Atualmente trabalhando em:** Projetos Fullstack e otimização de algoritmos.
+🌱 **Aprendendo:** Arquitetura de Software e Node.js avançado.
 ### 🛠️ Estruturas e Tecnologias
 
 <div style="display: inline_block">
