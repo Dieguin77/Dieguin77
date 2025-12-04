@@ -33,24 +33,13 @@ Atualmente estudo e desenvolvo projetos em **React, JavaScript e Web Design prof
 
 </div>
 
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dieguin77&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dieguin77&layout=compact&theme=tokyonight)
-
-</div>
 
 ---
 
 ## 📫 Contato
 
 - 📧 Email: **diegobatistt@gmail.com**
-- 📸 Instagram: [@Diegobatis77](https://instagram.com/Diegobatis77)
+- 📸 Instagram: [@Diegobatis77](https://instagram.com/Diegobatistt77)
 - 💼 LinkedIn: *[(adicione aqui se quiser)*](https://www.linkedin.com/in/diego-batista-gomes-moraes-737491259/)
 - 🌐 Portfólio: https://diegodev.dev.br/
 
