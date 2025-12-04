@@ -8,8 +8,6 @@
 
 ---
 
----
-
 ## 🧠 About Me
 
 I am a professional web developer specializing in **clean architecture, modern UI/UX and performance optimization**.
