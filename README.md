@@ -7,10 +7,13 @@
 
 ---
 
-## 🚀 Sobre mim
+Sou desenvolvedor web focado em criar sistemas modernos, rápidos e eficientes.
 
-Sou desenvolvedor web focado em criar soluções modernas, rápidas e bem estruturadas.
-Atualmente estudo e desenvolvo projetos em **React, JavaScript e Web Design profissional**.
+Trabalho com desenvolvimento Front-end utilizando React e JavaScript, criando interfaces profissionais, responsivas e otimizadas para desempenho.
+
+Tenho experiência na criação de sites institucionais, sistemas personalizados e projetos sob demanda, sempre buscando soluções práticas, organizadas e bem estruturadas.
+
+Atendo projetos com foco em qualidade, organização de código e entrega profissional.
 
 ---
 
@@ -36,14 +39,12 @@ Atualmente estudo e desenvolvo projetos em **React, JavaScript e Web Design prof
 
 ---
 
-## 📫 Contato
+📩 Contato profissional
 
-- 📧 Email: **diegobatistt@gmail.com**
-- 📸 Instagram: (https://instagram.com/Diegobatistt77)
-- 💼 LinkedIn: https://www.linkedin.com/in/diego-batista-gomes-moraes-737491259
-- 🌐 Portfólio: https://diegodev.dev.br/
+E-mail: diegobatistt@gmail.com
+WhatsApp: (27) 99993-3283
+GitHub: github.com/Dieguin77
 
----
 
 <p align="center">
 ⚡ "Código não é só lógica. É ferramenta de crescimento."
