@@ -1,27 +1,61 @@
-### Olá! Sou o Diego 👋
-**Desenvolvedor Web | JavaScript | Node.js**
+<h1 align="center"> Olá! Eu sou Diego Batista</h1>
 
-Mais do que escrever código, meu foco é **construir soluções**. 
-Graduando em Tecnologia em Sistemas para Internet, combino o desenvolvimento de interfaces interativas com o estudo aprofundado de estruturas de dados e performance no back-end.
+<p align="center">
+💻 Desenvolvedor Web | React | Front-end <br>
+🚀 Criador de sites modernos e interfaces profissionais
+</p>
 
-🔭 **Atualmente trabalhando em:** Projetos Fullstack e otimização de algoritmos.
-🌱 **Aprendendo:** Arquitetura de Software e Node.js avançado.
-### 🛠️ Estruturas e Tecnologias
+---
 
-<div style="display: inline_block">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
-  <img align="center" alt="Filezilla" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg">
-  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Docker/vscode-original.svg">
+## 🚀 Sobre mim
+
+Sou desenvolvedor web focado em criar soluções modernas, rápidas e bem estruturadas.
+Atualmente estudo e desenvolvo projetos em **React, JavaScript e Web Design profissional**.
+
+---
+
+## 🛠️ Tecnologias que utilizo
+
+<div align="center"><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+
+<br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+
 </div>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dieguin77&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dieguin77&layout=compact&theme=tokyonight)
+
 </div>
 
-### 🔗 Vamos nos conectar?
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-batista-gomes-moraes-737491259/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dieguin77)
+## 📫 Contato
+
+- 📧 Email: **diegobatistt@gmail.com**
+- 📸 Instagram: [@Diegobatis77](https://instagram.com/Diegobatis77)
+- 💼 LinkedIn: *[(adicione aqui se quiser)*](https://www.linkedin.com/in/diego-batista-gomes-moraes-737491259/)
+- 🌐 Portfólio: https://diegodev.dev.br/
+
+---
+
+<p align="center">
+⚡ "Código não é só lógica. É ferramenta de crescimento."
+</p>
