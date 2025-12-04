@@ -1,63 +1,74 @@
-# Hi, I'm Diego Batista
+<div align="center">
 
-💻 Front-end Developer | Web Developer  
-🚀 Building modern, high-performance and scalable web interfaces
+#  Hi, I'm Diego Batista
 
----
+### Front-end Developer | Web Developer | React Specialist
 
-## About Me
-
-I am a web developer focused on delivering **clean, fast and responsive web applications**.
-
-I work mainly with **JavaScript and React**, developing professional front-end interfaces with strong focus on performance, usability and clean code.
-
-I develop websites, dashboards and custom web systems for real clients, always following best practices and professional workflows.
+🚀 Building professional, scalable and high-performance web applications.
 
 ---
 
-## 🛠️ Tech Stack
+<img src="https://github-readme-stats.vercel.app/api?username=Dieguin77&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
-![React](https://img.shields.io/badge/React-Advanced-blue)
-![HTML5](https://img.shields.io/badge/HTML5-Proficient-orange)
-![CSS3](https://img.shields.io/badge/CSS3-Professional-blue)
-![Git](https://img.shields.io/badge/Git-Active-red)
-![GitHub](https://img.shields.io/badge/GitHub-Version_Control-black)
-![Vite](https://img.shields.io/badge/Vite-Build%20Tool-purple)
-![Docker](https://img.shields.io/badge/Docker-Learning-blue)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dieguin77&theme=tokyonight" height="150"/>
+
+---
+
+## 🧠 About Me
+
+I am a professional web developer specializing in **clean architecture, modern UI/UX and performance optimization**.
+
+I build web systems, websites and interfaces using modern technologies with professional workflow.
+
+I focus on:
+- Maintainable code
+- Performance optimization
+- Version control
+- Best UI practices
+- Business-oriented solutions
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,react,html,css,vite,git,github,docker" />
+
+</p>
 
 ---
 
 ## ✅ What I Deliver
 
-✔ Professional websites  
-✔ Responsive UI and UX design  
-✔ Custom web systems  
-✔ Clean and scalable architecture  
-✔ Version control and documentation  
-✔ Performance-oriented development  
-✔ Initial deployment and setup support
+✔ Professional web systems  
+✔ Responsive and modern UI  
+✔ Clean architecture  
+✔ GitHub versioning  
+✔ Performance optimization  
+✔ Production-ready delivery  
+✔ Technical documentation  
 
 ---
 
-## 🎯 Why Hire Me
+## 💼 Professional Profile
 
-🚀 Clean and maintainable code  
-📅 Deadline commitment  
-💬 Clear communication  
-📄 Proper documentation  
-🛠 Version control workflow  
-📈 Performance-driven solutions  
+🔹 Professional mindset  
+🔹 Deadline-oriented  
+🔹 High-quality delivery  
+🔹 Long-term maintainability  
+🔹 Proactive communication  
 
 ---
 
-## 📬 Professional Contact
+## 📩 Contact Me
 
 📧 Email: diegobatistt@gmail.com  
 📱 WhatsApp: +55 27 99993-3283  
 💼 GitHub: https://github.com/Dieguin77  
-📸 Instagram: @diegobatistt77
+📸 Instagram: @diegobatistt77  
 
 ---
 
- If you are looking for a reliable developer to build modern web applications, let's work together.
+###  Let’s build something great together!
+</div>
