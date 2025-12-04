@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Diego Batista
+# Hi, I'm Diego Batista
 
 💻 Front-end Developer | Web Developer  
 🚀 Building modern, high-performance and scalable web interfaces
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am a web developer focused on delivering **clean, fast and responsive web applications**.
 
@@ -56,8 +56,8 @@ I develop websites, dashboards and custom web systems for real clients, always f
 📧 Email: diegobatistt@gmail.com  
 📱 WhatsApp: +55 27 99993-3283  
 💼 GitHub: https://github.com/Dieguin77  
-📸 Instagram: @diegobatis77
+📸 Instagram: @diegobatistt77
 
 ---
 
-⭐ If you are looking for a reliable developer to build modern web applications, let's work together.
+ If you are looking for a reliable developer to build modern web applications, let's work together.
