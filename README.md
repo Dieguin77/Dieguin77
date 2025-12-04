@@ -39,8 +39,8 @@ Atualmente estudo e desenvolvo projetos em **React, JavaScript e Web Design prof
 ## 📫 Contato
 
 - 📧 Email: **diegobatistt@gmail.com**
-- 📸 Instagram: [@Diegobatis77](https://instagram.com/Diegobatistt77)
-- 💼 LinkedIn: *[(adicione aqui se quiser)*](https://www.linkedin.com/in/diego-batista-gomes-moraes-737491259/)
+- 📸 Instagram: (https://instagram.com/Diegobatistt77)
+- 💼 LinkedIn: https://www.linkedin.com/in/diego-batista-gomes-moraes-737491259
 - 🌐 Portfólio: https://diegodev.dev.br/
 
 ---
