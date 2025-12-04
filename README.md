@@ -1,51 +1,63 @@
-<h1 align="center"> Olá! Eu sou Diego Batista</h1>
+# 👋 Hi, I'm Diego Batista
 
-<p align="center">
-💻 Desenvolvedor Web | React | Front-end <br>
-🚀 Criador de sites modernos e interfaces profissionais
-</p>
+💻 Front-end Developer | Web Developer  
+🚀 Building modern, high-performance and scalable web interfaces
 
 ---
 
-Sou desenvolvedor web focado em criar sistemas modernos, rápidos e eficientes.
+## 👨‍💻 About Me
 
-Trabalho com desenvolvimento Front-end utilizando React e JavaScript, criando interfaces profissionais, responsivas e otimizadas para desempenho.
+I am a web developer focused on delivering **clean, fast and responsive web applications**.
 
-Tenho experiência na criação de sites institucionais, sistemas personalizados e projetos sob demanda, sempre buscando soluções práticas, organizadas e bem estruturadas.
+I work mainly with **JavaScript and React**, developing professional front-end interfaces with strong focus on performance, usability and clean code.
 
-Atendo projetos com foco em qualidade, organização de código e entrega profissional.
-
----
-
-## 🛠️ Tecnologias que utilizo
-
-<div align="center"><br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-
-</div>
-
+I develop websites, dashboards and custom web systems for real clients, always following best practices and professional workflows.
 
 ---
 
-📩 Contato profissional
+## 🛠️ Tech Stack
 
-E-mail: diegobatistt@gmail.com
-WhatsApp: (27) 99993-3283
-GitHub: github.com/Dieguin77
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![React](https://img.shields.io/badge/React-Advanced-blue)
+![HTML5](https://img.shields.io/badge/HTML5-Proficient-orange)
+![CSS3](https://img.shields.io/badge/CSS3-Professional-blue)
+![Git](https://img.shields.io/badge/Git-Active-red)
+![GitHub](https://img.shields.io/badge/GitHub-Version_Control-black)
+![Vite](https://img.shields.io/badge/Vite-Build%20Tool-purple)
+![Docker](https://img.shields.io/badge/Docker-Learning-blue)
 
+---
 
-<p align="center">
-⚡ "Código não é só lógica. É ferramenta de crescimento."
-</p>
+## ✅ What I Deliver
+
+✔ Professional websites  
+✔ Responsive UI and UX design  
+✔ Custom web systems  
+✔ Clean and scalable architecture  
+✔ Version control and documentation  
+✔ Performance-oriented development  
+✔ Initial deployment and setup support
+
+---
+
+## 🎯 Why Hire Me
+
+🚀 Clean and maintainable code  
+📅 Deadline commitment  
+💬 Clear communication  
+📄 Proper documentation  
+🛠 Version control workflow  
+📈 Performance-driven solutions  
+
+---
+
+## 📬 Professional Contact
+
+📧 Email: diegobatistt@gmail.com  
+📱 WhatsApp: +55 27 99993-3283  
+💼 GitHub: https://github.com/Dieguin77  
+📸 Instagram: @diegobatis77
+
+---
+
+⭐ If you are looking for a reliable developer to build modern web applications, let's work together.
