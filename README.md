@@ -2,7 +2,7 @@
 
 #  Hi, I'm Diego Batista
 
-### Front-end Developer | Web Developer | React Specialist
+### Full-Stack Developer | Web Developer | React Specialist
 
 🚀 Building professional, scalable and high-performance web applications.
 
