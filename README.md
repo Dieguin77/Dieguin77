@@ -27,7 +27,7 @@ I focus on:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,html,css,vite,git,github,docker" />
+<img src="https://skillicons.dev/icons?i=js,react,html,css,vite,git,github,docker,typescript" />
 
 </p>
 
