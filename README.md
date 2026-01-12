@@ -15,11 +15,11 @@ I am a professional web developer specializing in **clean architecture, modern U
 I build web systems, websites and interfaces using modern technologies with professional workflow.
 
 I focus on:
-- Maintainable code
-- Performance optimization
-- Version control
-- Best UI practices
-- Business-oriented solutions
+ Maintainable code
+ Performance optimization
+ Version control
+ Best UI practices
+ Business-oriented solutions
 
 ---
 
