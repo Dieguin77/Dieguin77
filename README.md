@@ -35,32 +35,32 @@ I focus on:
 
 ## ✅ What I Deliver
 
-✔ Professional web systems  
-✔ Responsive and modern UI  
-✔ Clean architecture  
-✔ GitHub versioning  
-✔ Performance optimization  
-✔ Production-ready delivery  
-✔ Technical documentation  
+ Professional web systems  
+ Responsive and modern UI  
+ Clean architecture  
+ GitHub versioning  
+ Performance optimization  
+ Production-ready delivery  
+ Technical documentation  
 
 ---
 
 ## Professional Profile
 
-🔹 Professional mindset  
-🔹 Deadline-oriented  
-🔹 High-quality delivery  
-🔹 Long-term maintainability  
-🔹 Proactive communication  
+ Professional mindset  
+ Deadline-oriented  
+ High-quality delivery  
+ Long-term maintainability  
+ Proactive communication  
 
 ---
 
 ## Contact Me
 
-📧 Email: diegobatistt@gmail.com  
-📱 WhatsApp: +55 27 99993-3283  
-💼 GitHub: https://github.com/Dieguin77  
-📸 Instagram: @diegobatistt77  
+ Email: diegobatistt@gmail.com  
+ WhatsApp: +55 27 99993-3283  
+ GitHub: https://github.com/Dieguin77  
+ Instagram: @diegobatistt77  
 
 ---
 
