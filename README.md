@@ -4,11 +4,11 @@
 
 ### Full-Stack Developer | Web Developer | React Specialist
 
-🚀 Building professional, scalable and high-performance web applications.
+Building professional, scalable and high-performance web applications.
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I am a professional web developer specializing in **clean architecture, modern UI/UX and performance optimization**.
 
@@ -23,7 +23,7 @@ I focus on:
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
 
@@ -45,7 +45,7 @@ I focus on:
 
 ---
 
-## 💼 Professional Profile
+## Professional Profile
 
 🔹 Professional mindset  
 🔹 Deadline-oriented  
@@ -55,7 +55,7 @@ I focus on:
 
 ---
 
-## 📩 Contact Me
+## Contact Me
 
 📧 Email: diegobatistt@gmail.com  
 📱 WhatsApp: +55 27 99993-3283  
