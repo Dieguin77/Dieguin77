@@ -25,18 +25,20 @@
 ### Banco de Dados
 - MySQL
 - SQL
+- Supabase
 
 ### Ferramentas
 - Git
 - GitHub
 - VS Code
+- Vercel
 
 ---
 
 ##  Projetos em Destaque
 
 ### 📌 UMADGOV 2026
-Projeto desenvolvido para gestão e organização de informações.
+Sistema Web desenvolvido com React, Vite e Supabase para gestão e organização de informações da UMADGOV 2026.
 
 ### 📌 Sistema FIFO Cinema
 Simulação de fila FIFO utilizando APIs.
@@ -48,6 +50,19 @@ Aplicação para gerenciamento de tarefas.
 Portfólio profissional para apresentação de projetos e serviços.
 
 ---
+
+## 📚 Atualmente estudando
+
+- APIs REST
+- SQL e PostgreSQL
+- React
+- Node.js
+- Metodologias Ágeis (Scrum e Kanban)
+- Boas práticas e Clean Code
+
+## 🎯 Objetivo
+
+Atuar como Desenvolvedor Full Stack, contribuindo com soluções de qualidade e evoluindo constantemente através do aprendizado contínuo e das boas práticas de desenvolvimento.
 
 ##  Portfólio
 
