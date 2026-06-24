@@ -55,7 +55,7 @@ Portfólio profissional para apresentação de projetos e serviços.
 
 ##  Contato
 
- vinicius.dias148@gmail.com
+ diegobatistt@gmai.com
 
  GitHub: https://github.com/Dieguin77
 
