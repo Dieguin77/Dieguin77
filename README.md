@@ -1,4 +1,4 @@
-# Olá, eu sou Diego Batista 👋
+# Olá, eu sou Diego Batista 
 
  Estudante de Tecnologia em Sistemas para Internet (5º período)
 
@@ -37,16 +37,16 @@
 
 ##  Projetos em Destaque
 
-### 📌 UMADGOV 2026
+###  UMADGOV 2026
 Sistema Web desenvolvido com React, Vite e Supabase para gestão e organização de informações da UMADGOV 2026.
 
-### 📌 Sistema FIFO Cinema
+###  Sistema FIFO Cinema
 Simulação de fila FIFO utilizando APIs.
 
-### 📌 Sistema Lista de Tarefas
+###  Sistema Lista de Tarefas
 Aplicação para gerenciamento de tarefas.
 
-### 📌 Diego Dev
+###  Diego Dev
 Portfólio profissional para apresentação de projetos e serviços.
 
 ---
@@ -60,7 +60,7 @@ Portfólio profissional para apresentação de projetos e serviços.
 - Metodologias Ágeis (Scrum e Kanban)
 - Boas práticas e Clean Code
 
-## 🎯 Objetivo
+##  Objetivo
 
 Atuar como Desenvolvedor Full Stack, contribuindo com soluções de qualidade e evoluindo constantemente através do aprendizado contínuo e das boas práticas de desenvolvimento.
 
