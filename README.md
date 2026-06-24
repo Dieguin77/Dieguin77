@@ -1,14 +1,14 @@
 # Olá, eu sou Diego Batista 👋
 
-🎓 Estudante de Tecnologia em Sistemas para Internet (5º período)
+ Estudante de Tecnologia em Sistemas para Internet (5º período)
 
-💻 Desenvolvedor Web Full Stack
+ Desenvolvedor Web Full Stack
 
-🚀 Experiência prática em projetos pessoais e comerciais
+ Experiência prática em projetos pessoais e comerciais
 
 ---
 
-## 🛠 Tecnologias
+##  Tecnologias
 
 ### Front-End
 - HTML
@@ -33,7 +33,7 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+##  Projetos em Destaque
 
 ### 📌 UMADGOV 2026
 Projeto desenvolvido para gestão e organização de informações.
@@ -49,16 +49,16 @@ Portfólio profissional para apresentação de projetos e serviços.
 
 ---
 
-## 🌐 Portfólio
+##  Portfólio
 
-🔗 https://diegodev.dev.br
+ https://diegodev.dev.br
 
-## 📫 Contato
+##  Contato
 
-📧 vinicius.dias148@gmail.com
+ vinicius.dias148@gmail.com
 
-💼 GitHub: https://github.com/Dieguin77
+ GitHub: https://github.com/Dieguin77
 
 ---
 
-⭐ Sempre em busca de novos conhecimentos e boas práticas de desenvolvimento.
+ Desenvolvedor em constante evolução, comprometido com aprendizado contínuo, boas práticas e construção de soluções que gerem valor.
