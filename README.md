@@ -30,7 +30,7 @@
 
 ## Sobre mim
 
-- Cursando **Tecnologia em Sistemas para Internet** (5º período)
+- Desenvolvedor **Tecnologia em Sistemas para Internet** (IFES)
 - Experiência prática em projetos **pessoais e comerciais**
 - Foco em interfaces modernas, SEO, acessibilidade e integração com APIs
 - Atualmente aprofundando conhecimentos em **React**, **Node.js** e **PostgreSQL**
