@@ -72,8 +72,8 @@
 
 ## Projetos em Destaque
 
-### [gladstonfreire.com.br](https://gladstonfreire.com.br) — Site Institucional & Marca Pessoal
-> Site oficial de Gladston Freire — Ministro, Escritor, Advogado e Palestrante.
+### [gladstonfreire.com.br](https://gladstonfreire.com.br) | Site Institucional & Marca Pessoal
+> Site oficial de Gladston Freire | Ministro, Escritor, Advogado e Palestrante.
 
 **Stack:** HTML5 · CSS3 · JavaScript · Sanity.io · Supabase · GitHub Pages
 
@@ -86,14 +86,14 @@
 
 ---
 
-### UMADGOV 2026 — Sistema de Gestão
+### UMADGOV 2026 | Sistema de Gestão
 > Sistema Web para organização de informações e inscrições do evento UMADGOV 2026.
 
 **Stack:** React · Vite · Supabase · TypeScript
 
 ---
 
-### Diego Dev — Portfólio
+### Diego Dev | Portfólio
 > Portfólio profissional para apresentação de projetos e serviços.
 
 **Link:** [diegodev.dev.br](https://diegodev.dev.br)
@@ -116,7 +116,7 @@
 - React avançado (hooks, context, performance)
 - Node.js e APIs REST
 - SQL e PostgreSQL
-- Metodologias Ágeis — Scrum e Kanban
+- Metodologias Ágeis | Scrum e Kanban
 - Clean Code e boas práticas de desenvolvimento
 
 ---
