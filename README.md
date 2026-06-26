@@ -8,7 +8,7 @@
   </h1>
 
   <p>
-    <strong>Desenvolvedor Front-end</strong> · Estudante de Tecnologia em Sistemas para Internet<br>
+    <strong>Desenvolvedor Full Stack</strong> · Tecnologia em Sistemas para Internet<br>
     Construindo interfaces modernas, responsivas e integradas a serviços reais.
   </p>
 
