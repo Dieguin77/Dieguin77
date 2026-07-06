@@ -87,10 +87,26 @@
 
 ---
 
-### UMADGOV 2026 | Sistema de Gestão
-> Sistema Web para organização de informações e inscrições do evento UMADGOV 2026.
+### [Rucirlan](https://dieguin77.github.io/rucirlan/) | Consultor Multimarcas de Consórcios
+> Site comercial para consultor de consórcios (imóveis, veículos, motos, caminhões e consórcio empresarial).
+
+**Stack:** HTML5 · CSS3 · JavaScript · GitHub Pages
+
+- Formulário de simulação com captura de lead e envio direto para o WhatsApp do consultor
+- Carrossel de administradoras parceiras e seções de depoimentos
+- Widget de chat do WhatsApp e CTAs de conversão em toda a página
+- Totalmente responsivo, deploy automático via GitHub Pages
+
+---
+
+### [UMADGOV 2026](https://umadgov-2026.vercel.app) | Sistema de Gestão
+> Sistema Web para venda e organização das camisas oficiais do evento UMADGOV 2026, com pagamento via PIX e painel administrativo.
 
 **Stack:** React · Vite · Supabase · TypeScript
+
+- Geração de QR Code PIX (payload EMV/BR Code) sem depender de gateway externo
+- Upload de comprovante e acompanhamento de status do pedido
+- Painel administrativo com autenticação e controle de acesso por perfil (Supabase Auth + RLS)
 
 ---
 
