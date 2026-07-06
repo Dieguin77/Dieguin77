@@ -99,6 +99,17 @@
 
 ---
 
+### [Gesso Decoracompany](https://gessodecoracompany.com.br) | Site Institucional
+> Site institucional para empresa especializada em Drywall, Gesso 3D, Sancas e Forros, em Teixeira de Freitas - BA.
+
+**Stack:** HTML5 · CSS3 · GitHub Pages (domínio próprio)
+
+- Apresentação dos serviços e CTAs de orçamento gratuito via WhatsApp
+- Deploy em domínio próprio via GitHub Pages
+- Totalmente responsivo
+
+---
+
 ### [UMADGOV 2026](https://umadgov-2026.vercel.app) | Sistema de Gestão
 > Sistema Web para venda e organização das camisas oficiais do evento UMADGOV 2026, com pagamento via PIX e painel administrativo.
 
