@@ -73,6 +73,57 @@
 
 ## Projetos em Destaque
 
+### [Everlabs Full Stack](https://github.com/Dieguin77/everlabs-fullstack) | Gestão de Tarefas (Kanban)
+> Sistema fullstack de gestão de tarefas estilo Kanban, desenvolvido como desafio técnico para vaga de Estagiário Full Stack.
+
+**Stack:** Node.js · Express · TypeScript · Prisma · React 18 · Redux Toolkit · Docker
+
+- Clean Architecture (domain/infra/shared) com injeção de dependência via TSyringe
+- Autenticação JWT com perfis Admin/User e permissões por rota
+- Quadro Kanban com drag-and-drop nativo, sem bibliotecas externas
+- Upload de anexos, comentários e sistema de tags nas tarefas
+- Testes automatizados (Vitest) e documentação da API via Swagger
+- Ambiente completo containerizado com Docker Compose
+
+---
+
+### [UMADGOV 2026](https://umadgov.com.br) | Sistema de Gestão
+> Sistema Web para venda e organização das camisas oficiais do evento UMADGOV 2026, com pagamento via PIX e painel administrativo.
+
+**Stack:** React · Vite · Supabase · JavaScript
+
+- Geração de QR Code PIX (payload EMV/BR Code) direto no navegador, sem depender de gateway externo
+- Upload opcional de comprovante e consulta pública do status do pedido
+- Painel administrativo com autenticação e controle de acesso por perfil (Supabase Auth + RLS)
+- Numeração de pedido automática e sequencial via trigger no Postgres
+
+---
+
+### [Sistema Lista de Tarefas](https://sistema-tarefas-app.fly.dev/) | API REST + Gestão de Tarefas
+> Sistema web para cadastro e gerenciamento de tarefas, com API REST própria e persistência em SQLite.
+
+**Stack:** Node.js · Express · SQLite (sql.js) · Docker · Fly.io
+
+- CRUD completo com validações (nome único, custo ≥ 0, data válida)
+- Reordenação por drag-and-drop e por botões, persistida no banco
+- Destaque visual automático para tarefas de custo elevado
+- Deploy containerizado com volume persistente no Fly.io
+
+---
+
+### [Tocando Pra Valer](https://tocando-pra-valer3-0.vercel.app) | Plataforma Musical
+> Plataforma musical completa para músicos brasileiros — cifras, afinador, metrônomo e piano virtual, 100% gratuita.
+
+**Stack:** React 18 · Vite · Tailwind CSS · React Router · EmailJS · Vercel
+
+- Busca de cifras em tempo real (`useDeferredValue`) com transposição automática de tom
+- Afinador via microfone (Web Audio API) e metrônomo interativo
+- Sistema de envio/aprovação de cifras com múltiplos backends configuráveis (Supabase, Google Sheets, Formspree, localStorage)
+- Notificações por e-mail sem servidor próprio (EmailJS)
+- Code splitting por rota e SEO técnico completo (Schema.org, Open Graph, sitemap)
+
+---
+
 ### [gladstonfreire.com.br](https://gladstonfreire.com.br) | Site Institucional & Marca Pessoal
 > Site oficial de Gladston Freire | Ministro, Escritor, Advogado e Palestrante.
 
@@ -87,44 +138,15 @@
 
 ---
 
-### [Rucirlan](https://dieguin77.github.io/rucirlan/) | Consultor Multimarcas de Consórcios
-> Site comercial para consultor de consórcios (imóveis, veículos, motos, caminhões e consórcio empresarial).
+### [Diego Dev](https://diegodev.dev.br) | Portfólio & Landing Page de Serviços
+> Landing page comercial para apresentação de projetos, serviços e captação de leads via WhatsApp.
 
 **Stack:** HTML5 · CSS3 · JavaScript · GitHub Pages
 
-- Formulário de simulação com captura de lead e envio direto para o WhatsApp do consultor
-- Carrossel de administradoras parceiras e seções de depoimentos
-- Widget de chat do WhatsApp e CTAs de conversão em toda a página
-- Totalmente responsivo, deploy automático via GitHub Pages
-
----
-
-### [Gesso Decoracompany](https://gessodecoracompany.com.br) | Site Institucional
-> Site institucional para empresa especializada em Drywall, Gesso 3D, Sancas e Forros, em Teixeira de Freitas - BA.
-
-**Stack:** HTML5 · CSS3 · GitHub Pages (domínio próprio)
-
-- Apresentação dos serviços e CTAs de orçamento gratuito via WhatsApp
-- Deploy em domínio próprio via GitHub Pages
-- Totalmente responsivo
-
----
-
-### [UMADGOV 2026](https://umadgov-2026.vercel.app) | Sistema de Gestão
-> Sistema Web para venda e organização das camisas oficiais do evento UMADGOV 2026, com pagamento via PIX e painel administrativo.
-
-**Stack:** React · Vite · Supabase · TypeScript
-
-- Geração de QR Code PIX (payload EMV/BR Code) sem depender de gateway externo
-- Upload de comprovante e acompanhamento de status do pedido
-- Painel administrativo com autenticação e controle de acesso por perfil (Supabase Auth + RLS)
-
----
-
-### Diego Dev | Portfólio
-> Portfólio profissional para apresentação de projetos e serviços.
-
-**Link:** [diegodev.dev.br](https://diegodev.dev.br)
+- Teste A/B da seção hero e rastreamento de conversão integrado ao Google Analytics 4
+- Formulário de contato que monta a mensagem e abre o WhatsApp diretamente, sem back-end
+- SEO técnico completo: dados estruturados JSON-LD, Open Graph, sitemap e robots.txt
+- Banner de consentimento (LGPD) e acessibilidade (skip link, `aria-label`, `prefers-reduced-motion`)
 
 ---
 
