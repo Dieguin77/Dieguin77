@@ -9,7 +9,7 @@
 
   <p>
     <strong>Desenvolvedor Full Stack</strong> · Tecnologia em Sistemas para Internet<br>
-    Construindo interfaces modernas, responsivas e integradas a serviços reais.
+    Construindo interfaces modernas, responsivas e integradas a serviços reais e estudando AWS.
   </p>
 
   <p>
