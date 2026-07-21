@@ -73,8 +73,8 @@
 
 ## Projetos em Destaque
 
-### [Everlabs Full Stack](https://github.com/Dieguin77/everlabs-fullstack) | Gestão de Tarefas (Kanban)
-> Sistema fullstack de gestão de tarefas estilo Kanban, desenvolvido como desafio técnico para vaga de Estagiário Full Stack.
+### [Everlabs Full Stack](https://everlabs-fullstack.vercel.app) | Gestão de Tarefas (Kanban)
+> Sistema fullstack de gestão de tarefas estilo Kanban, desenvolvido como desafio técnico para vaga de Estagiário Full Stack. [Código-fonte](https://github.com/Dieguin77/everlabs-fullstack) · Login demo: `admin@demo.com` / `demo12345`
 
 **Stack:** Node.js · Express · TypeScript · Prisma · React 18 · Redux Toolkit · Docker
 
