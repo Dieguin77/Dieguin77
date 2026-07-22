@@ -154,8 +154,8 @@
 
 <div align="center">
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dieguin77&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=14213D&icon_color=14213D&text_color=ffffff&border_color=14213D&hide_border=false&count_private=true" alt="GitHub Stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dieguin77&layout=compact&theme=dark&bg_color=0d0d0d&title_color=14213D&text_color=ffffff&border_color=14213D&hide_border=false" alt="Top Languages">
+  <img height="160" src="https://github-readme-stats-murex-eta-47.vercel.app/api?username=Dieguin77&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=14213D&icon_color=14213D&text_color=ffffff&border_color=14213D&hide_border=false&count_private=true" alt="GitHub Stats">
+  <img height="160" src="https://github-readme-stats-murex-eta-47.vercel.app/api/top-langs/?username=Dieguin77&layout=compact&theme=dark&bg_color=0d0d0d&title_color=14213D&text_color=ffffff&border_color=14213D&hide_border=false" alt="Top Languages">
 
 </div>
 
