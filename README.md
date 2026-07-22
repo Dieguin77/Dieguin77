@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d47a1&height=120&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=14213D&height=120&section=header" width="100%"/>
 
   <h1>
     Olá, eu sou Diego Batista
@@ -14,7 +14,7 @@
 
   <p>
     <a href="https://diegodev.dev.br">
-      <img src="https://img.shields.io/badge/Portfólio-diegodev.dev.br-0d47a1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
+      <img src="https://img.shields.io/badge/Portfólio-diegodev.dev.br-14213D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
     </a>
     <a href="mailto:diegobatistt@gmail.com">
       <img src="https://img.shields.io/badge/E--mail-diegobatistt@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
@@ -154,8 +154,8 @@
 
 <div align="center">
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dieguin77&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=0d47a1&icon_color=0d47a1&text_color=ffffff&border_color=0d47a1&hide_border=false&count_private=true" alt="GitHub Stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dieguin77&layout=compact&theme=dark&bg_color=0d0d0d&title_color=0d47a1&text_color=ffffff&border_color=0d47a1&hide_border=false" alt="Top Languages">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dieguin77&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=14213D&icon_color=14213D&text_color=ffffff&border_color=14213D&hide_border=false&count_private=true" alt="GitHub Stats">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dieguin77&layout=compact&theme=dark&bg_color=0d0d0d&title_color=14213D&text_color=ffffff&border_color=14213D&hide_border=false" alt="Top Languages">
 
 </div>
 
@@ -173,6 +173,6 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d47a1&height=80&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=14213D&height=80&section=footer" width="100%"/>
 
 </div>
