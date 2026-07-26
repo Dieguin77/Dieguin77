@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-    <img src="https://img.shields.io/badge/PHP-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/PHP-06B6D4?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP">
 </p>
 
 ### Back-End & Banco de Dados
@@ -68,6 +68,7 @@
   <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/Figma-007ACC?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma">
+   <img src="https://img.shields.io/badge/Figma-007ACC?style=for-the-badge&logo=Xampp&logoColor=white" alt="Xampp">
 </p>
 
 ---
