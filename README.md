@@ -48,7 +48,11 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-    <img src="https://img.shields.io/badge/PHP-06B6D4?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/PHP-06B6D4?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/PHP-06B6D4?style=for-the-badge&logo=C&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/PHP-06B6D4?style=for-the-badge&logo=Paython&logoColor=white" alt="Paython">
+  <img src="https://img.shields.io/badge/PHP-06B6D4?style=for-the-badge&logo=SQL&logoColor=white" alt="SQL">
+  
 </p>
 
 ### Back-End & Banco de Dados
