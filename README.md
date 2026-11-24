@@ -13,8 +13,8 @@
   </p>
 
   <p>
-    <a href="https://diegodev.dev.br">
-      <img src="https://img.shields.io/badge/Portfólio-diegodev.dev.br-14213D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
+    <a href="https://dieguin77.github.io/site-diego-dev/">
+      <img src="https://img.shields.io/badge/Portfólio-dieguin77.github.io-14213D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
     </a>
     <a href="mailto:diegobatistt@gmail.com">
       <img src="https://img.shields.io/badge/E--mail-diegobatistt@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
@@ -172,7 +172,7 @@
 
 ---
 
-### [Diego Dev](https://diegodev.dev.br) | Portfólio & Landing Page de Serviços
+### [Diego Dev](https://dieguin77.github.io/site-diego-dev/) | Portfólio & Landing Page de Serviços
 > Landing page comercial para apresentação de projetos, serviços e captação de leads via WhatsApp.
 
 **Stack:** HTML5 · CSS3 · JavaScript · GitHub Pages
