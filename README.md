@@ -3,13 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=14213D&height=120&section=header" width="100%"/>
 
   <h1>
-    Olá, eu sou Diego Batista
+    Olá, eu sou o Diego
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
   <p>
-    <strong>Desenvolvedor Full Stack</strong> · React · TypeScript · Node.js<br>
-    Crio aplicações web do layout ao deploy, com projetos em produção para clientes reais.
+    Desenvolvedor web, front-end e full stack, em Governador Valadares (MG).
   </p>
 
   <p>
@@ -30,90 +29,35 @@
 
 ## Sobre mim
 
-- Estudante de **Tecnologia em Sistemas para Internet** no IFES (conclusão prevista para 2027)
-- Projetos **comerciais em produção**: sistema de vendas com pagamento por PIX e cartão, sites institucionais e landing pages
-- Foco em **front-end com React e TypeScript**, integrado a APIs REST e bancos de dados
-- Cuidado com SEO, acessibilidade e desempenho
-- Objetivo: atuar como **Desenvolvedor Front-end ou Full Stack**
+Estudo Tecnologia em Sistemas para Internet no IFES (termino em 2027) e trabalho como desenvolvedor web autônomo desde 2024. Já fiz sites e sistemas para clientes de verdade, e vários deles estão no ar até hoje.
+
+Gosto mais da parte de front-end, com React e TypeScript, mas também trabalho com Node.js e banco de dados quando o projeto pede.
+
+Agora estou procurando minha primeira vaga como desenvolvedor front-end ou full stack.
 
 ---
 
-## Projetos em Destaque
+## Alguns projetos
 
-### [Everlabs Full Stack](https://everlabs-fullstack.vercel.app) | Gestão de Tarefas (Kanban)
-> Sistema full stack de gestão de tarefas estilo Kanban, criado a partir de um desafio técnico. [Código-fonte](https://github.com/Dieguin77/everlabs-fullstack) · Login demo: `admin@demo.com` / `demo12345`
+### [Everlabs](https://everlabs-fullstack.vercel.app)
+Um quadro Kanban de tarefas que fiz a partir de um desafio técnico. Tem login com perfil de admin e de usuário, dá para arrastar as tarefas entre as colunas e adicionar comentários e anexos. O front-end é em React com TypeScript e Redux Toolkit, e o back-end em Node.js com Express, Prisma e PostgreSQL.
 
-**Stack:** TypeScript · React 18 · Redux Toolkit · Node.js · Express · Prisma · PostgreSQL · Docker
+Para testar, entre com `admin@demo.com` e a senha `demo12345`. [Ver o código](https://github.com/Dieguin77/everlabs-fullstack)
 
-- Clean Architecture (domain/infra/shared) com injeção de dependência via TSyringe
-- Autenticação JWT com perfis Admin/User e permissões por rota
-- Quadro Kanban com drag-and-drop nativo, sem bibliotecas externas
-- Upload de anexos, comentários e tags nas tarefas
-- Testes automatizados com Vitest e documentação da API com Swagger
-- Deploy com Vercel (front-end), Render (API) e Supabase (banco)
+### [UMADGOV 2026](https://umadgov.com.br)
+O site de venda das camisas do evento UMADGOV 2026, que está em uso. A pessoa faz o pedido e paga por PIX (o QR Code é gerado no próprio navegador) ou por cartão, e a organização acompanha tudo num painel administrativo. Fiz com React, Vite e Supabase. [Ver o código](https://github.com/Dieguin77/umadgov-2026)
 
----
+### [Sistema Lista de Tarefas](https://sistema-tarefas-app.fly.dev/)
+Um sistema simples de tarefas com API REST própria em Node.js e Express e banco SQLite. Dá para cadastrar, editar, excluir e mudar a ordem das tarefas arrastando. Publiquei no Fly.io usando Docker. [Ver o código](https://github.com/Dieguin77/sistema-lista-tarefas)
 
-### [UMADGOV 2026](https://umadgov.com.br) | Sistema de Vendas
-> Sistema web em produção para a venda das camisas oficiais do evento UMADGOV 2026, com pagamento por PIX e cartão e painel administrativo. [Código-fonte](https://github.com/Dieguin77/umadgov-2026)
+### [Tocando Pra Valer](https://tocando-pra-valer3-0.vercel.app)
+Uma plataforma gratuita para músicos, com cifras, afinador pelo microfone, metrônomo e piano virtual. Feita com React, Vite e Tailwind CSS. [Ver o código](https://github.com/Dieguin77/tocando-pra-valer-3)
 
-**Stack:** React · Vite · JavaScript · Supabase (Postgres, Auth, Storage) · Vercel Functions · InfinitePay
+### [Site do Gladston Freire](https://gladstonfreire.com.br)
+Site de um cliente, que é ministro, escritor e advogado. Tem blog, agenda de convites e um painel para ele organizar os pedidos de agenda. Usei HTML, CSS, JavaScript, Sanity e Supabase. [Ver o código](https://github.com/Dieguin77/gladston-freire)
 
-- QR Code PIX (payload EMV/BR Code) gerado no próprio navegador
-- Pagamento por cartão com o checkout da InfinitePay e confirmação automática por webhook
-- Upload de comprovante e consulta pública do status do pedido
-- Painel administrativo com Supabase Auth e políticas RLS por perfil
-- Numeração sequencial dos pedidos via trigger no Postgres
-
----
-
-### [Sistema Lista de Tarefas](https://sistema-tarefas-app.fly.dev/) | API REST + Gestão de Tarefas
-> Sistema web para cadastro e gerenciamento de tarefas, com API REST própria e persistência em SQLite. [Código-fonte](https://github.com/Dieguin77/sistema-lista-tarefas)
-
-**Stack:** Node.js · Express · SQLite (sql.js) · Docker · Fly.io
-
-- CRUD completo com validações (nome único, custo ≥ 0, data válida)
-- Reordenação por drag-and-drop e por botões, salva no banco
-- Destaque visual automático para tarefas de custo elevado
-- Deploy em contêiner com volume persistente no Fly.io
-
----
-
-### [Tocando Pra Valer](https://tocando-pra-valer3-0.vercel.app) | Plataforma Musical
-> Plataforma musical gratuita para músicos brasileiros: cifras, afinador, metrônomo e piano virtual. [Código-fonte](https://github.com/Dieguin77/tocando-pra-valer-3)
-
-**Stack:** React 18 · Vite · Tailwind CSS · React Router · EmailJS · Vercel
-
-- Busca de cifras em tempo real (`useDeferredValue`) com transposição automática de tom
-- Afinador pelo microfone (Web Audio API) e metrônomo interativo
-- Envio e aprovação de cifras com back-ends configuráveis (Supabase, Google Sheets, Formspree, localStorage)
-- Notificações por e-mail sem servidor próprio (EmailJS)
-- Code splitting por rota e SEO técnico (Schema.org, Open Graph, sitemap)
-
----
-
-### [gladstonfreire.com.br](https://gladstonfreire.com.br) | Site Institucional & Marca Pessoal
-> Site oficial de Gladston Freire: ministro, escritor, advogado e palestrante. [Código-fonte](https://github.com/Dieguin77/gladston-freire)
-
-**Stack:** HTML5 · CSS3 · JavaScript · Sanity.io · Supabase · GitHub Pages
-
-- Landing page com pregações, livro, agenda ministerial e blog
-- CMS headless com Sanity.io para publicação de artigos
-- Formulário de agenda salvo no Supabase, com aviso por e-mail (EmailJS)
-- Painel administrativo para gestão de convites
-- SEO: Schema.org, Open Graph, sitemap e robots.txt
-
----
-
-### [Diego Dev](https://dieguin77.github.io/site-diego-dev/) | Portfólio & Landing Page de Serviços
-> Landing page comercial para apresentar projetos e serviços e captar contatos pelo WhatsApp. [Código-fonte](https://github.com/Dieguin77/site-diego-dev)
-
-**Stack:** HTML5 · CSS3 · JavaScript · GitHub Pages
-
-- Teste A/B na seção principal e conversões medidas no Google Analytics 4
-- Formulário que monta a mensagem e abre o WhatsApp, sem back-end
-- SEO técnico: dados estruturados JSON-LD, Open Graph, sitemap e robots.txt
-- Aviso de cookies (LGPD) e acessibilidade (skip link, `aria-label`, `prefers-reduced-motion`)
+### [Meu portfólio](https://dieguin77.github.io/site-diego-dev/)
+Onde apresento meus serviços e projetos. O formulário de contato monta a mensagem e abre direto no WhatsApp. [Ver o código](https://github.com/Dieguin77/site-diego-dev)
 
 ---
 
@@ -185,7 +129,7 @@
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code">
 </p>
 
-Na faculdade também programei em **C** e **Python**.
+Na faculdade também programei em C e Python.
 
 ---
 
@@ -200,13 +144,9 @@ Na faculdade também programei em **C** e **Python**.
 
 ---
 
-## Atualmente estudando
+## O que estou estudando agora
 
-- Fundamentos de **JavaScript e TypeScript** (tipos, assincronismo, imutabilidade)
-- **React** em profundidade: hooks, estado, gerenciamento com Redux Toolkit e desempenho
-- Testes de front-end com **Vitest e Testing Library**
-- **AWS Certified AI Practitioner** (Escola da Nuvem)
-- **Inglês** técnico para o dia a dia de desenvolvimento
+Estou reforçando a base de JavaScript e TypeScript, estudando React com mais calma e aprendendo a escrever testes com Vitest. Também estou me preparando para a certificação AWS Certified AI Practitioner pela Escola da Nuvem e melhorando meu inglês.
 
 ---
 
