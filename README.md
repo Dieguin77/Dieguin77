@@ -13,7 +13,10 @@
 
   <p>
     <a href="https://diegodev.dev.br/">
-      <img src="https://img.shields.io/badge/Portfólio-dieguin77.github.io-14213D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
+      <img src="https://img.shields.io/badge/Portfólio-diegodev.dev.br-14213D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
+    </a>
+    <a href="https://www.linkedin.com/in/diegobatistt/">
+      <img src="https://img.shields.io/badge/LinkedIn-diegobatistt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:diegobatistt@gmail.com">
       <img src="https://img.shields.io/badge/E--mail-diegobatistt@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
@@ -96,7 +99,6 @@ Onde apresento meus serviços e projetos. O formulário de contato monta a mensa
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
 <img src="https://img.shields.io/badge/Sanity.io-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" alt="Sanity.io">
 </p>
@@ -105,7 +107,6 @@ Onde apresento meus serviços e projetos. O formulário de contato monta a mensa
 <p>
 <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest">
 <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint">
-<img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier">
 </p>
 
 ### Cloud, deploy e DevOps
@@ -115,7 +116,6 @@ Onde apresento meus serviços e projetos. O formulário de contato monta a mensa
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render">
 <img src="https://img.shields.io/badge/Fly.io-8B5CF6?style=for-the-badge&logo=flydotio&logoColor=white" alt="Fly.io">
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
 <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages">
 </p>
 
