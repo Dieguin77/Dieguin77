@@ -12,7 +12,7 @@
   </p>
 
   <p>
-    <a href="https://dieguin77.github.io/site-diego-dev/">
+    <a href="https://diegodev.dev.br/">
       <img src="https://img.shields.io/badge/Portfólio-dieguin77.github.io-14213D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
     </a>
     <a href="mailto:diegobatistt@gmail.com">
@@ -56,7 +56,7 @@ Uma plataforma gratuita para músicos, com cifras, afinador pelo microfone, metr
 ### [Site do Gladston Freire](https://gladstonfreire.com.br)
 Site de um cliente, que é ministro, escritor e advogado. Tem blog, agenda de convites e um painel para ele organizar os pedidos de agenda. Usei HTML, CSS, JavaScript, Sanity e Supabase. [Ver o código](https://github.com/Dieguin77/gladston-freire)
 
-### [Meu portfólio](https://dieguin77.github.io/site-diego-dev/)
+### [Meu portfólio](https://diegodev.dev.br/)
 Onde apresento meus serviços e projetos. O formulário de contato monta a mensagem e abre direto no WhatsApp. [Ver o código](https://github.com/Dieguin77/site-diego-dev)
 
 ---
